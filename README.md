@@ -51,7 +51,7 @@ A sophisticated computer vision-based height measurement system that uses your l
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/HRS0221/Real-Time-Height-Measurement-System.git
+   git clone https://github.com/HimanshuSalunke/Real-Time-Height-Measurement-System.git
    cd Real-Time-Height-Measurement-System
    ```
 
@@ -203,7 +203,7 @@ Real-Time-Height-Measurement-System/
 
 1. **Fork and clone the repository**
    ```bash
-   git clone https://github.com/HRS0221/Real-Time-Height-Measurement-System.git
+   git clone https://github.com/HimanshuSalunke/Real-Time-Height-Measurement-System.git
    cd Real-Time-Height-Measurement-System
    ```
 
@@ -249,8 +249,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Himanshu Kishor Salunke**
-- GitHub: [@HRS0221](https://github.com/HRS0221)
-- LinkedIn: [Himanshu Kishor Salunke](https://www.linkedin.com/in/hr0221/)
+- GitHub: [@HimanshuSalunke](https://github.com/HimanshuSalunke)
+- LinkedIn: [Himanshu Kishor Salunke](https://www.linkedin.com/in/himanshuksalunke/)
 
 ## 🙏 Acknowledgments
 
@@ -261,7 +261,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/HRS0221/Real-Time-Height-Measurement-System?style=social)
-![GitHub forks](https://img.shields.io/github/forks/HRS0221/Real-Time-Height-Measurement-System?style=social)
-![GitHub issues](https://img.shields.io/github/issues/HRS0221/Real-Time-Height-Measurement-System)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/HRS0221/Real-Time-Height-Measurement-System)
+![GitHub stars](https://img.shields.io/github/stars/HimanshuSalunke/Real-Time-Height-Measurement-System?style=social)
+![GitHub forks](https://img.shields.io/github/forks/HimanshuSalunke/Real-Time-Height-Measurement-System?style=social)
+![GitHub issues](https://img.shields.io/github/issues/HimanshuSalunke/Real-Time-Height-Measurement-System)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/HimanshuSalunke/Real-Time-Height-Measurement-System)
